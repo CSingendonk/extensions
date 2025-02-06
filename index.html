@@ -1,10 +1,36 @@
-<html><head></head><body>
+<html>
+  <head>
+    <style>
+      * < toaster- {
+        display: contents;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+    <button id="kcuf">DO NOT CLICK ME</button>
 <script>
-  while (true != false) {
-    alert('F');
-    prompt('U','FUCK');
-    confirm('C');
-    alert('K');
-  }
+  let nothin = document.getElementById('kcuf');
+  nothin.addEventListener('click', (e) => {
+      nothin = undefined;
+      let _b = undefined;
+      while (!_b) {
+          let _a = prompt('?','');
+          if (!nothin === !_b){
+              confirm('F');
+              alert('U')
+              confirm('C');
+              alert('K');
+          } else if (_a === 'FUCK') {
+             _b = null;
+             return 'FUCK'
+          }
+      }
+  });
 </script>  
+    </main>
+    <div>
+      <toaster-></toaster->
+      <script src="toasts.js"></script>
+    </div>
 </body></html>
