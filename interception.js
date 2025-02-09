@@ -1,3 +1,14 @@
+/**
+ * @version 1.3.3.7
+ * @satisfies Myself ;)
+ * @copyright 2024-2034 Chris Singendonk
+ * @author Chris Singendonk <github.com/csingendonk>
+ * @license none
+ * @summary This repository and its original / independently authored files / code authored by Chris Singendonk and scripts is not licensed for use or distribution
+ , please do not use or distribute this repository without explicit written permission from the author and the copyright holder. Any prior versions obtained through github or any other means is subject to this same license.
+ * @description This script is not licensed for use or distribution, please do not use or distribute this script without explicit written permission from the author and the copyright holder.
+ * @fileoverview This script is not licensed for use or distribution, please do not use or distribute this script without explicit written permission from the author and the copyright holder.
+ */
 //Written by CSingendonk
 function initLogs() {
     console.log('Initializing logs...');
