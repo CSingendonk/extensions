@@ -1,19 +1,11 @@
-Copyright (c) 2024 Chris Singendonk
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, and modify copies of the Software, and to permit persons to 
-whom the Software is furnished to do so, subject to the following conditions:
-
-- The above copyright notice and this permission notice shall be included in 
-all copies or substantial portions of the Software.
-- The implementing party must notify the Author, Chris Singendonk beforehand.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHOR OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+/**
+ * @version 1.3.3.7
+ * @satisfies Myself ;)
+ * @copyright 2024-2034 Chris Singendonk
+ * @file https://github.com/CSingendonk/extensions/*/*.js
+ * @author Chris Singendonk <github.com/csingendonk>
+ * @license none
+ * @summary This script is not licensed for use or distribution, please do not use or distribute this script without explicit written permission from the author and the copyright holder.
+ * @description This script is not licensed for use or distribution, please do not use or distribute this script without explicit written permission from the author and the copyright holder.
+ * @fileoverview This script is not licensed for use or distribution, please do not use or distribute this script without explicit written permission from the author and the copyright holder.
+ */
